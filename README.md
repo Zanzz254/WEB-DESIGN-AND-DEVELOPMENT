@@ -20,9 +20,4 @@ Welcome to my repository for web design and development projects! Here are some 
    Description: This is a tours and travel website.
 
 ## Getting Started
-function emailForQuote() {
-    const recipientEmail = 'wanjohijameswanjohi@gmail.com';
-    console.log(`Sending email to ${recipientEmail} to get a quote.`);
-}
-
-
+mailto; wanjohiameswanohi@gmail.com
