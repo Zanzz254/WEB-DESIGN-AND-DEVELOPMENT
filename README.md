@@ -20,4 +20,4 @@ Welcome to my repository for web design and development projects! Here are some 
    Description: This is a tours and travel website.
 
 ## Getting Started
-mailto; wanjohiameswanohi@gmail.com
+wanjohiameswanohi@gmail.com
