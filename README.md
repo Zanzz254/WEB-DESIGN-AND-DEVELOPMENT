@@ -20,9 +20,9 @@ Welcome to my repository for web design and development projects! Here are some 
    Description: This is a tours and travel website.
 
 ## Getting Started
+function emailForQuote() {
+    const recipientEmail = 'wanjohijameswanjohi@gmail.com';
+    console.log(`Sending email to ${recipientEmail} to get a quote.`);
+}
 
-Clone this repository to your local machine:
 
-```bash
-git clone https://github.com/Zanzz254/WEB-DESIGN-AND-DEVELOPMENT.git
-cd WEB-DESIGN-AND-DEVELOPMENT
