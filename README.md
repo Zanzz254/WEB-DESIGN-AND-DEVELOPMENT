@@ -19,5 +19,14 @@ Welcome to my repository for web design and development projects! Here are some 
   
    Description: This is a tours and travel website.
 
+- **JSA Packaging Africa Limited**: [www.jsapackagingafrica.com](http://www.jsapackagingafrica.com)
+  Description: This is a Packaging Company website showcasing their products.
+  ![image](https://github.com/user-attachments/assets/e3f62044-4846-4bf3-aa5b-9201eacb68a1)
+
+- **Bracel Security Limited**: [www.bracelsecurity.com](http://www.bracelsecurity.com)
+  Description: This is a website showcasing Bracel's security solutions.
+![image](https://github.com/user-attachments/assets/ebbf7e43-70d5-4ace-bec1-42f4af2048c5)
+
+
 ## Getting Started
 wanjohiameswanohi@gmail.com
