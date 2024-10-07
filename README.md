@@ -1,6 +1,6 @@
 # Web Design and Development Projects
 
-Welcome to my repository for web design and development projects! Here are some of my projects:
+Welcome to my Portfolio for web design and development projects! Here are some of my projects:
 
 ## Projects
 
