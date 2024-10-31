@@ -5,7 +5,7 @@ Welcome to my Portfolio for web design and development projects! Here are some o
 ## Projects
 
 - **24 Hours Homework Solvers**: [www.24hourshomeworksolvers.com](http://www.24hourshomeworksolvers.com)
-v  Description: This is an ecommerce website for academicpapers of all subjects.
+  Description: This is an ecommerce website for academicpapers of all subjects.
  ![image](https://github.com/Zanzz254/WEB-DESIGN-AND-DEVELOPMENT/assets/174908885/ff045f43-716f-4778-bee0-ea91a7f5784f)
 
 
@@ -14,7 +14,8 @@ v  Description: This is an ecommerce website for academicpapers of all subjects.
 
   Description: This an website that excels in providing SEO services by crafting bespoke, high-quality content that enhances brand visibility and engages audiences effectively.
 - **Africahuru Safaris**: [www.africahurusafaris.com](http://www.africahurusafaris.com)
- ![image](https://github.com/user-attachments/assets/9347d37c-3255-487b-83e0-c98deab36ccf)
+ ![image](https://github.com/user-attachments/assets/64a3d08a-4ce3-4100-b883-d2f41ff9eb08)
+
 
 
   
@@ -26,7 +27,7 @@ v  Description: This is an ecommerce website for academicpapers of all subjects.
 
 
 
-- **Marie's Classy Collection**: [http://www.mariesclassycollections.great-site.net/](http://www.mariesclassycollections.great-site.net/))
+- **Marie's Classy Collection**: [http://www.mariesclassycollections.great-site.net/](http://www.mariesclassycollections.great-site.net/)
   Description: This is a website showcasing dropshipping eCommerce Products.
 ![image](https://github.com/user-attachments/assets/8624b246-0114-45f7-bca8-43b034b11472)
 
