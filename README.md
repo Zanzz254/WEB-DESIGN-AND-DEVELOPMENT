@@ -33,4 +33,4 @@ Welcome to my Portfolio for web design and development projects! Here are some o
 
 
 ## Getting Started
-wanjohijameswanjohi@gmail.com
+wanjohijamesmurigi@gmail.com
