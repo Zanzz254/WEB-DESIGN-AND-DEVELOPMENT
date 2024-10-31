@@ -5,7 +5,7 @@ Welcome to my Portfolio for web design and development projects! Here are some o
 ## Projects
 
 - **24 Hours Homework Solvers**: [www.24hourshomeworksolvers.com](http://www.24hourshomeworksolvers.com)
-  Description: This is an ecommerce website for academicpapers of all subjects.
+v  Description: This is an ecommerce website for academicpapers of all subjects.
  ![image](https://github.com/Zanzz254/WEB-DESIGN-AND-DEVELOPMENT/assets/174908885/ff045f43-716f-4778-bee0-ea91a7f5784f)
 
 
@@ -21,11 +21,15 @@ Welcome to my Portfolio for web design and development projects! Here are some o
 
 - **JSA Packaging Africa Limited**: [www.jsapackagingafrica.com](http://www.jsapackagingafrica.com)
   Description: This is a Packaging Company website showcasing their products.
-  ![image](https://github.com/user-attachments/assets/e3f62044-4846-4bf3-aa5b-9201eacb68a1)
+![image](https://github.com/user-attachments/assets/a4f42c2c-2f71-4dbb-971c-2aae30c5e2ad)
 
-- **Bracel Security Limited**: [www.bracelsecurity.com](http://www.bracelsecurity.com)
-  Description: This is a website showcasing Bracel's security solutions.
-![image](https://github.com/user-attachments/assets/ebbf7e43-70d5-4ace-bec1-42f4af2048c5)
+
+- **Marie's Classy Collection**: [http://www.mariesclassycollections.great-site.net/](http://www.mariesclassycollections.great-site.net/))
+  Description: This is a website showcasing dropshipping eCommerce Products.
+![image](https://github.com/user-attachments/assets/8624b246-0114-45f7-bca8-43b034b11472)
+
+
+
 
 
 ## Getting Started
