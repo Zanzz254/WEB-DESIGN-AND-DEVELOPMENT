@@ -14,14 +14,16 @@ v  Description: This is an ecommerce website for academicpapers of all subjects.
 
   Description: This an website that excels in providing SEO services by crafting bespoke, high-quality content that enhances brand visibility and engages audiences effectively.
 - **Africahuru Safaris**: [www.africahurusafaris.com](http://www.africahurusafaris.com)
-  ![image](https://github.com/Zanzz254/WEB-DESIGN-AND-DEVELOPMENT/assets/174908885/14b1dc50-5417-4970-8b20-d9c148608fc9)
+ ![image](https://github.com/user-attachments/assets/9347d37c-3255-487b-83e0-c98deab36ccf)
+
 
   
    Description: This is a tours and travel website.
 
 - **JSA Packaging Africa Limited**: [www.jsapackagingafrica.com](http://www.jsapackagingafrica.com)
   Description: This is a Packaging Company website showcasing their products.
-![image](https://github.com/user-attachments/assets/a4f42c2c-2f71-4dbb-971c-2aae30c5e2ad)
+![image](https://github.com/user-attachments/assets/e24fa8d4-36e0-4c00-9b2a-e88c787bab65)
+
 
 
 - **Marie's Classy Collection**: [http://www.mariesclassycollections.great-site.net/](http://www.mariesclassycollections.great-site.net/))
