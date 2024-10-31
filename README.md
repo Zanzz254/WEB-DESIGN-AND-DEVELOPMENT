@@ -14,12 +14,9 @@ Welcome to my Portfolio for web design and development projects! Here are some o
 
   Description: This an website that excels in providing SEO services by crafting bespoke, high-quality content that enhances brand visibility and engages audiences effectively.
 - **Africahuru Safaris**: [www.africahurusafaris.com](http://www.africahurusafaris.com)
+  Description: This is a tours and travel website.
  ![image](https://github.com/user-attachments/assets/64a3d08a-4ce3-4100-b883-d2f41ff9eb08)
 
-
-
-  
-   Description: This is a tours and travel website.
 
 - **JSA Packaging Africa Limited**: [www.jsapackagingafrica.com](http://www.jsapackagingafrica.com)
   Description: This is a Packaging Company website showcasing their products.
@@ -36,4 +33,4 @@ Welcome to my Portfolio for web design and development projects! Here are some o
 
 
 ## Getting Started
-wanjohiameswanohi@gmail.com
+wanjohijameswanjohi@gmail.com
