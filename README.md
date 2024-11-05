@@ -28,6 +28,10 @@ Welcome to my Portfolio for web design and development projects! Here are some o
   Description: This is a website showcasing dropshipping eCommerce Products.
 ![image](https://github.com/user-attachments/assets/8624b246-0114-45f7-bca8-43b034b11472)
 
+**James Murigi Professional Portfolio**: [https://www.jamesmurigi.my-board.org/](https://www.jamesmurigi.my-board.org/)
+  Description: This is a professional profile/portfolio landing page for a client.
+![image](https://github.com/user-attachments/assets/84837f5c-bd5b-4e0b-822e-97e80c9eb452)
+
 
 
 
