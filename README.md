@@ -32,6 +32,10 @@ Welcome to my Portfolio for web design and development projects! Here are some o
   Description: This is a professional profile/portfolio landing page for a client.
 ![image](https://github.com/user-attachments/assets/84837f5c-bd5b-4e0b-822e-97e80c9eb452)
 
+**The Spot Restaurant Website**: [https://www.thespot.is-best.net/](https://www.thespot.is-best.net/)
+  Description: This is a restaurant website showcasing an online menu and an online ordering patform. 
+  ![image](https://github.com/user-attachments/assets/319b653f-178a-4a74-baa0-b93c435e1dc0)
+
 
 
 
