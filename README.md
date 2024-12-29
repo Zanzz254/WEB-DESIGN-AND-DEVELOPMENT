@@ -37,6 +37,9 @@ Welcome to my Portfolio for web design and development projects! Here are some o
   ![image](https://github.com/user-attachments/assets/319b653f-178a-4a74-baa0-b93c435e1dc0)
 
 
+**Bracel Security Limited Website**: [https://www.bracelsecurity.com/](https://www.bracelsecurity.com/)
+  Description: This is a website showcasing Bracel's security solutions.
+![bracel](https://github.com/user-attachments/assets/0223fb44-ae64-498b-a95b-0ffc740c3664)
 
 
 
